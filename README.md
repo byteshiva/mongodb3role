@@ -1,2 +1,42 @@
-# mongodb3role
-Mongdb3 Cook Book Role
+# mongodb3role-cookbook
+
+TODO: Enter the cookbook description here.
+
+## Supported Platforms
+
+TODO: List your supported platforms.
+
+## Attributes
+
+<table>
+  <tr>
+    <th>Key</th>
+    <th>Type</th>
+    <th>Description</th>
+    <th>Default</th>
+  </tr>
+  <tr>
+    <td><tt>['mongodb3role']['bacon']</tt></td>
+    <td>Boolean</td>
+    <td>whether to include bacon</td>
+    <td><tt>true</tt></td>
+  </tr>
+</table>
+
+## Usage
+
+### mongodb3role::default
+
+Include `mongodb3role` in your node's `run_list`:
+
+```json
+{
+  "run_list": [
+    "recipe[mongodb3role::default]"
+  ]
+}
+```
+
+## License and Authors
+
+Author:: YOUR_NAME (<YOUR_EMAIL>)

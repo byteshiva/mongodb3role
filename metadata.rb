@@ -1,0 +1,7 @@
+name             'mongodb3role'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures mongodb3role'
+long_description 'Installs/Configures mongodb3role'
+version          '0.1.0'
